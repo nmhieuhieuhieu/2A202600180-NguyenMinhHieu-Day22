@@ -36,6 +36,3 @@ data/ragas_report.json
 # IDEs
 .vscode/
 .idea/
-
-# Evidence
-evidence/
